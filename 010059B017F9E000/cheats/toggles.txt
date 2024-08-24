@@ -1,0 +1,72 @@
+[Pointer setup]
+true
+[trace pointer]
+false
+[inv(asm)]
+false
+[Collision(set to 0 to walk through walls)]
+false
+[Inv]
+false
+[Inf Hp]
+false
+[Inf Max Hp]
+false
+[Inf Sp]
+false
+[Inf Max Sp]
+false
+[stats are hacked]
+true
+[X coord(doesnt write)(tracing only)]
+false
+[Y coord(doesnt write)(tracing only)]
+false
+[Enable 4-way dash]
+false
+[Enable 4-way dash inf]
+false
+[Enable dbl jump]
+false
+[Enable dbl jump inf]
+false
+[Enable knockback resistance]
+false
+[Enable dashing shield]
+false
+[Enable armorscoop]
+false
+[Enable "wave beam"]
+true
+[spike buster]
+false
+[Enable 20 Nuts->token]
+false
+[Enable Repo speed up]
+false
+[Enable Charging magnet]
+false
+[Enable Flight(1 sec)]
+false
+[Enable Hover]
+false
+[Enable vaporize shots]
+false
+[Enable autocharge]
+false
+[Enable Level 3 Charge]
+true
+[Enable shop+sal]
+false
+[Enable dash attack]
+false
+[Enable ???]
+false
+[Disable 2 "unsafe" powerups]
+false
+[enable twin repo]
+false
+[core cost reduced to 0]
+false
+[Created By Gamerjin]
+false
